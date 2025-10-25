@@ -1,0 +1,115 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+header {
+    background-color: black;
+    padding: 50px 60px 50px 60px;
+}
+header div {
+    padding:0px 70px 0px 70px;
+}
+header div img {
+    max-width: 100%;
+}
+#sezione1 {
+    background-image: url(images/banner.jpg);
+    padding:50px;
+    line-height: 1.5em;
+    text-align: center;
+    color:dimgray
+}
+h1, h3 {
+    margin: 0;
+    color:darkturquoise;  
+    font-family: 'Monserrat', sans-serif;
+    text-align: center;
+}
+p {
+    font-size:14px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+button {
+    background-color:crimson;
+    border-radius: 10px;
+    padding: 20px 50px 20px 50px;
+    border-style: none;
+}
+article {
+    padding: 30px 50px 30px 50px;
+    line-height: 1.5em;
+    align-items: center;
+}
+article div{
+    padding: 40px 40px 40px 40px;
+}
+article div img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.unioni {
+    border:1px solid darkgray;
+    margin: 40px;
+    
+}
+.finalmente {
+    padding:20px;
+}
+.uffa {
+    max-width: 100%;
+}
+
+article p {
+    color:dimgrey;
+    text-align: center;
+}
+#garantisce {
+    background-color:crimson;
+    padding: 10px 50px 10px 50px;
+    margin:0;
+}
+blockquote p {
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#nome{
+    font-weight:bold;
+    color:white;
+}
+div p {
+    text-align: center;
+    color:white;
+}
+section p {
+    color:dimgray;
+    line-height: 1.5em;
+}
+
+footer {
+    text-align: center;
+    color:white;
+    background-color: darkturquoise;
+    
+}
+footer div {
+    padding:10px 10px 10px 10px;
+    
+}
+.pic {
+    color:crimson;
+    font-family:'FontAwesome';
+    
+}
+i {
+    font-family: 'FontAwesome';
+}
